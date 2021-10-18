@@ -40,7 +40,7 @@ def main():
     # process
     try:
         street_number_int = int(street_number)
-        if apartment == "n":
+        if apartment == "y":
             apartment_number_int = int(apartment_number)
         
         # call functions
